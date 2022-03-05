@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Waliyan</h1>
-<h3 align="center">I am enthusiastic developer. I work as an Associate Software Engineer at Byju's - The Learning App.</h3>
+<h3 align="center">I am an enthusiastic developer. I work as an Associate Software Engineer at Byju's - The Learning App.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket-waliyan&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-waliyan" /> </p>
 
