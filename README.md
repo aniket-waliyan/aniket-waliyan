@@ -1,7 +1,6 @@
 ### Hello there!
 
 ![](/MeagerHardtofindAlbertosaurus-size_restricted.gif)  
-[Source](https://gfycat.com/meagerhardtofindalbertosaurus-hello-there-star-wars-prequelmemes)
 
 <h3 align="center">I am an enthusiastic developer. I work as an Associate Software Engineer at Byju's - The Learning App.</h3>
 
