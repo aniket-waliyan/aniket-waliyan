@@ -1,6 +1,6 @@
 ### Hello there!
 
-![](/MeagerHardtofindAlbertosaurus-size_restricted.mp4)  
+![](/MeagerHardtofindAlbertosaurus-size_restricted.gif)  
 
 <h3 align="center">I am an enthusiastic developer. I work as an Associate Software Engineer at Byju's - The Learning App.</h3>
 
