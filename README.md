@@ -21,5 +21,3 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket-waliyan&show_icons=true&locale=en&layout=compact" alt="mszeles" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aniket-Wali&show_icons=true&locale=en" alt="mszeles" /></p>
