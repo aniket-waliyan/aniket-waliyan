@@ -1,6 +1,6 @@
 ### Hello there!
 
-![](/MeagerHardtofindAlbertosaurus-mobile.gif)  
+<a href="https://app.daily.dev/aniketwaliyan"><img src="https://api.daily.dev/devcards/d322d16f25644bddbbf5a258dbd7252d.png?r=pm3" width="400" alt="Aniket Waliyan's Dev Card"/></a>
 
 <h3 align="center">I am an enthusiastic developer. I work as an Associate Software Engineer at Byju's - The Learning App.</h3>
 
