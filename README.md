@@ -18,4 +18,3 @@
 
 ![Metrics](https://raw.githubusercontent.com/aniket-waliyan/aniket-waliyan/github-metrics/github-metrics.svg)
 ![Most used languages](https://raw.githubusercontent.com/aniket-waliyan/aniket-waliyan/github-metrics/language.svg)
-![Achievements](https://raw.githubusercontent.com/aniket-waliyan/aniket-waliyan/github-metrics/achievements.svg)
