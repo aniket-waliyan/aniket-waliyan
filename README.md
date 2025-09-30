@@ -13,7 +13,7 @@
 
 ## I am Aniket Waliyan
 
-- Developer at [Byju's](https://byjus.com/)
+- Developer at [SMC](https://www.smcindiaonline.com/)
 - Loves a freshly brewed cup of coffee
 
 ![Metrics](https://raw.githubusercontent.com/aniket-waliyan/aniket-waliyan/github-metrics/github-metrics.svg)
